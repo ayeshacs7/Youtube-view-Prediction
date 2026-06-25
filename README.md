@@ -2,7 +2,7 @@
 ## Objective
 Predict views according to features of video.
 
-###Input Features
+##Input Features
 Video Length (minutes)
 Likes
 Comments
@@ -10,7 +10,7 @@ Shares
 Subscribers
 
 
-###Output (Target)
+##Output (Target)
 Views
 
 
