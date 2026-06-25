@@ -32,6 +32,8 @@ Views
 | 4          | 85    | 9        | 5      | 750         | 1700  |
 | 10         | 290   | 40       | 22     | 2400        | 5900  |
 | 6          | 140   | 18       | 10     | 1100        | 2900  |
+
+
 ##Step 2: Import Libraries
 ##Step 3: Load Dataset
 ##Step 4: Check Dataset
