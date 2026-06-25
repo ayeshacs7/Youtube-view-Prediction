@@ -74,3 +74,20 @@ Accuracy Check
 ## R² Score
 ## Step 10:
 Predict New Video
+# Data Visualization Project
+
+## Dataset Preview
+
+<img src="yt1.png" width="700">
+
+## Scatter Plot
+
+<img src="yt2.png" width="700">
+
+## Correlation Heatmap
+
+<img src="yt3.png" width="700">
+
+## Actual vs Predicted Graph
+
+<img src="yt4.png" width="700">
