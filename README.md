@@ -1,8 +1,6 @@
 # YouTube Video Views Prediction Using Linear Regression
 ## Objective
-
 Predict views according to features of video.
-
 ###Input Features
 Video Length (minutes)
 Likes
