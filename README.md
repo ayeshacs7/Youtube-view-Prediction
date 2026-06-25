@@ -41,19 +41,23 @@ Views
 | 6          | 140   | 18       | 10     | 1100        | 2900  |
 
 
-## Step 2: Import Libraries
-## Step 3: Load Dataset
-## Step 4: Check Dataset
+## Step 2:
+Import Libraries
+## Step 3:
+Load Dataset
+## Step 4:
+Check Dataset
 
-## Step 5: Define Features and Target
+## Step 5: 
+Define Features and Target
 
-X (Input)
+## X (Input)
 Length_Min
 Likes
 Comments
 Shares
 Subscribers
-y (Output)
+## y (Output)
 Views
 
 
