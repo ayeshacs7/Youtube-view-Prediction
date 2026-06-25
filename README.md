@@ -70,8 +70,11 @@ Prediction
 ## Step 9:
 Accuracy Check
 ## MAE
+66.48138792906798
 ## MSE
+7820.749982874087
 ## R² Score
+0.9919113122349072
 ## Step 10:
 Predict New Video
 # Data Visualization Project
