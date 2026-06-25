@@ -1,17 +1,17 @@
 # YouTube Video Views Prediction Using Linear Regression
-🎯 Objective
+## Objective
 
-Video ki features dekh kar predict karna ke usay kitne views mil sakte hain.
+Predict views according to features of video.
 
-🎯Input Features
+###Input Features
 Video Length (minutes)
 Likes
 Comments
 Shares
 Subscribers
-🎯Output (Target)
+###Output (Target)
 Views
-Step 1: Dataset
+##Step 1: Dataset
 | Length_Min | Likes | Comments | Shares | Subscribers | Views |
 | ---------- | ----- | -------- | ------ | ----------- | ----- |
 | 5          | 120   | 15       | 10     | 1000        | 2500  |
@@ -34,10 +34,10 @@ Step 1: Dataset
 | 4          | 85    | 9        | 5      | 750         | 1700  |
 | 10         | 290   | 40       | 22     | 2400        | 5900  |
 | 6          | 140   | 18       | 10     | 1100        | 2900  |
-Step 2: Import Libraries
-Step 3: Load Dataset
-Step 4: Check Dataset
-Step 5: Define Features and Target
+##Step 2: Import Libraries
+##Step 3: Load Dataset
+##Step 4: Check Dataset
+##Step 5: Define Features and Target
 X (Input)
 Length_Min
 Likes
@@ -46,11 +46,11 @@ Shares
 Subscribers
 y (Output)
 Views
-Step 6: Split Dataset
-Step 7: Train Linear Regression Model
-Step 8: Prediction
-Step 9: Accuracy Check
-MAE
-MSE
-R² Score
-Step 10: Predict New Video
+##Step 6: Split Dataset
+##Step 7: Train Linear Regression Model
+##Step 8: Prediction
+##Step 9: Accuracy Check
+##MAE
+##MSE
+##R² Score
+##Step 10: Predict New Video
